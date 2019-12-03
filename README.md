@@ -1,2 +1,2 @@
-# typecast
+# TypeCast
 Typecast Releases
