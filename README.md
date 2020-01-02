@@ -1,2 +1,2 @@
-# TypeCast
-Typecast Releases
+# Haxor Downloads
+[Releases](https://github.com/haxordx/haxor/releases)
