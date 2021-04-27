@@ -1,2 +1,2 @@
-# Haxor Downloads
-[Releases](https://github.com/haxordx/haxor/releases)
+# Paircast Downloads
+[Releases](https://github.com/paircast/paircast/releases)
